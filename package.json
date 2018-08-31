@@ -1,0 +1,12 @@
+{
+  "name": "@libshin/koa-logger",
+  "version": "1.0.0",
+  "description": "Morgan like logger for koa",
+  "main": "index.js",
+  "repository": "git@github.com:libshin/koa-logger.git",
+  "author": "Ayc0 <ayc0.benj@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "kleur": "^2.0.2"
+  }
+}
